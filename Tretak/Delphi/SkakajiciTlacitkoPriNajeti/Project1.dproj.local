@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/10/30 12:23:38.000.022,=C:\Users\slave_000\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/10/30 12:35:56.000.638,C:\Users\slave_000\Disk Google\Moje\PROGRAMOVANI\Skolni programko\Tretak\Delphi\Unit1.dfm=C:\Users\slave_000\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2013/10/30 12:35:56.000.638,C:\Users\slave_000\Disk Google\Moje\PROGRAMOVANI\Skolni programko\Tretak\Delphi\Unit1.pas=C:\Users\slave_000\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/10/30 12:45:59.000.262,C:\Users\slave_000\Disk Google\Moje\PROGRAMOVANI\Skolni programko\Tretak\Delphi\SkakajiciTlacitkoPriNajeti\Project1.dproj=C:\Users\slave_000\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2013/10/30 12:46:27.000.862,C:\Users\slave_000\Disk Google\Moje\PROGRAMOVANI\Skolni programko\Tretak\Delphi\SkakajiciTlacitkoPriNajeti\Unit1.pas=C:\Users\slave_000\Disk Google\Moje\PROGRAMOVANI\Skolni programko\Tretak\Delphi\Unit1.pas</Transaction>
+    <Transaction>2013/10/30 12:46:27.000.862,C:\Users\slave_000\Disk Google\Moje\PROGRAMOVANI\Skolni programko\Tretak\Delphi\SkakajiciTlacitkoPriNajeti\Unit1.dfm=C:\Users\slave_000\Disk Google\Moje\PROGRAMOVANI\Skolni programko\Tretak\Delphi\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
