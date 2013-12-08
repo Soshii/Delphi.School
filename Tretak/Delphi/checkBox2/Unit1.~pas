@@ -1,0 +1,49 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls;
+
+type
+  TForm1 = class(TForm)
+    CheckBox1: TCheckBox;
+    CheckBox2: TCheckBox;
+    Label1: TLabel;
+    procedure CheckBox1Click(Sender: TObject);
+    procedure CheckBox2Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.CheckBox1Click(Sender: TObject);
+begin
+
+if (Checkbox1.Checked = true) then
+  Form1.Color:=clRed
+else if (Checkbox1.Checked = false) then
+  Form1.Color:=clBtnFace;
+
+
+end;
+
+procedure TForm1.CheckBox2Click(Sender: TObject);
+begin
+
+if (Checkbox2.Checked = true) then
+  Label1.Font.Color:=clYellow
+else if (Checkbox2.Checked = false) then
+  Label1.Font.Color:=clWindowText;
+end;
+
+end.
